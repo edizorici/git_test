@@ -1,0 +1,16 @@
+.standard-paragraph {
+  background-color: #f090a0;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#important-div {
+  color: #2158be;
+  font-size: 36px;
+}
+.cooler-paragraph {
+  font-size: 24px;
+}
+#another-important-div {
+  background-color: #8ce382;
+  font-size: 24px;
+  font-weight: 700;
+}
